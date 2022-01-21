@@ -21,8 +21,6 @@
  
  ### Minhas redes sociais:
 <div> 
-  <a href = "mailto:eduardo@portocriativo.com.br"><img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+ 
   <a href="https://www.linkedin.com/in/eduardo-caraccio-b18ba7158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
- 
-<img src="space-removebg.png" alt="Imagem de um Astronauta" style="height: 50vh;">
