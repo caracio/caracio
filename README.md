@@ -1,4 +1,4 @@
-### <h1>Olá! Meu nome é Luis Eduardo Caracio, tenho 27 anos, moro em São Paulo, e atualmente estou no último semestre de Análise e Desenvolvimento de Sistemas. Sou formado em Publicidade e Propaganda. 🤓</h1>
+### <h1>Olá! Meu nome é Luis Eduardo Caracio, tenho 27 anos, moro em São Paulo, e atualmente estou no último semestre de Análise e Desenvolvimento de Sistemas e sou formado em Publicidade e Propaganda. 🤓</h1>
 
  <div>
   <a href="https://github.com/caracio">
